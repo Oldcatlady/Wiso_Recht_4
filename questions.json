@@ -1,0 +1,179 @@
+[
+   {
+    "question": "Was versteht man unter Abschlussfreiheit?",
+    "options": {
+      "A": "Die Freiheit, gesetzliche Verbote zu ignorieren.",
+      "B": "Grundsätzlich selbst entscheiden zu können, ob und mit wem ein Vertrag geschlossen wird.",
+      "C": "Das Recht, jeden Vertrag rückwirkend zu beseitigen.",
+      "D": "Die Pflicht, jedes Vertragsangebot anzunehmen."
+    },
+    "correct": "B",
+    "explanation": "Abschlussfreiheit bedeutet grundsätzlich, selbst entscheiden zu können, ob man einen Vertrag eingehen möchte und mit wem. Gesetzliche Ausnahmen und Einschränkungen können bestehen."
+  },
+  {
+    "question": "Was bedeutet Inhalts- oder Gestaltungsfreiheit bei Verträgen?",
+    "options": {
+      "A": "Die Parteien können den Vertragsinhalt innerhalb der gesetzlichen Grenzen grundsätzlich selbst gestalten.",
+      "B": "Verträge dürfen keinen individuellen Inhalt haben.",
+      "C": "Nur Gerichte dürfen Vertragsinhalte bestimmen.",
+      "D": "Jeder Vertragsinhalt ist selbst bei einem gesetzlichen Verbot zulässig."
+    },
+    "correct": "A",
+    "explanation": "Die Inhalts- beziehungsweise Gestaltungsfreiheit ermöglicht es den Parteien grundsätzlich, ihre vertraglichen Rechte und Pflichten selbst festzulegen. Zwingende gesetzliche Vorschriften, gesetzliche Verbote und andere Wirksamkeitsgrenzen sind jedoch zu beachten."
+  },
+  {
+    "question": "Welche Aussage beschreibt einen nichtigen Vertrag am besten?",
+    "options": {
+      "A": "Er ist zunächst vollständig wirksam und kann niemals beseitigt werden.",
+      "B": "Er wird erst nach zehn Jahren unwirksam.",
+      "C": "Er ist zunächst nur wirtschaftlich ungünstig.",
+      "D": "Er entfaltet aufgrund eines Nichtigkeitsgrundes grundsätzlich nicht die beabsichtigte rechtsgeschäftliche Wirkung."
+    },
+    "correct": "D",
+    "explanation": "Nichtigkeit bedeutet, dass das Rechtsgeschäft die beabsichtigte rechtsgeschäftliche Wirkung grundsätzlich nicht entfaltet. Beispiele können die Willenserklärung eines Geschäftsunfähigen oder bestimmte Verstöße gegen gesetzliche Formvorschriften sein."
+  },
+  {
+    "question": "Welche Rechtsfolge hat die Willenserklärung eines Geschäftsunfähigen grundsätzlich?",
+    "options": {
+      "A": "Sie ist nichtig.",
+      "B": "Sie ist immer vollständig wirksam.",
+      "C": "Sie wird automatisch nach sieben Tagen wirksam.",
+      "D": "Sie ist lediglich wirtschaftlich nachteilig."
+    },
+    "correct": "A",
+    "explanation": "Nach § 105 Abs. 1 BGB ist die Willenserklärung eines Geschäftsunfähigen nichtig. Das ist von einem schwebend unwirksamen Vertrag eines beschränkt geschäftsfähigen Minderjährigen zu unterscheiden."
+  },
+  {
+    "question": "Welche Aussage beschreibt einen anfechtbaren Vertrag grundsätzlich richtig?",
+    "options": {
+      "A": "Er ist von Anfang an in jedem Fall ohne Rechtswirkung.",
+      "B": "Er kann zunächst wirksam sein, aber bei Vorliegen eines Anfechtungsgrundes durch wirksame Anfechtung rückwirkend beseitigt werden.",
+      "C": "Er kann ausschließlich von einem Gericht angefochten werden.",
+      "D": "Anfechtung ist nur bei Minderjährigen möglich."
+    },
+    "correct": "B",
+    "explanation": "Ein anfechtbares Rechtsgeschäft ist nicht dasselbe wie ein von Anfang an nichtiges Rechtsgeschäft. Wird es wirksam angefochten, gilt es nach § 142 Abs. 1 BGB grundsätzlich als von Anfang an nichtig."
+  },
+  {
+    "question": "Welcher Umstand kann einen Anfechtungsgrund darstellen?",
+    "options": {
+      "A": "Ein relevanter Irrtum im Sinne des § 119 BGB.",
+      "B": "Jeder beliebige spätere Sinneswandel.",
+      "C": "Jede nachträgliche Unzufriedenheit mit einem Preis.",
+      "D": "Allein die Tatsache, dass ein Vertrag mündlich geschlossen wurde."
+    },
+    "correct": "A",
+    "explanation": "§ 119 BGB ermöglicht unter bestimmten Voraussetzungen die Anfechtung wegen Irrtums. Nicht jeder spätere Sinneswandel oder wirtschaftlich schlechte Vertrag begründet dagegen ein Anfechtungsrecht."
+  },
+  {
+    "question": "Welche Situation kann nach § 123 BGB zur Anfechtung berechtigen?",
+    "options": {
+      "A": "Ein Vertragspartner findet den Vertrag später langweilig.",
+      "B": "Der Preis eines Produkts sinkt nach Vertragsschluss.",
+      "C": "Der Vertrag wurde an einem Montag geschlossen.",
+      "D": "Die Willenserklärung wurde durch arglistige Täuschung oder widerrechtliche Drohung veranlasst."
+    },
+    "correct": "D",
+    "explanation": "§ 123 BGB sieht die Anfechtbarkeit einer Willenserklärung vor, wenn jemand durch arglistige Täuschung oder widerrechtlich durch Drohung zur Abgabe der Erklärung bestimmt wurde."
+  },
+  {
+    "question": "Welche Rechtsfolge kann ein gesetzlich vorgeschriebener Formmangel nach § 125 BGB haben?",
+    "options": {
+      "A": "Das Rechtsgeschäft ist bei fehlender gesetzlich vorgeschriebener Form grundsätzlich nichtig, sofern sich nicht aus dem Gesetz etwas anderes ergibt.",
+      "B": "Der Vertrag wird automatisch zu einem Mietvertrag.",
+      "C": "Der Formmangel hat niemals rechtliche Folgen.",
+      "D": "Der Vertrag wird automatisch öffentlich-rechtlich."
+    },
+    "correct": "A",
+    "explanation": "§ 125 Satz 1 BGB bestimmt grundsätzlich, dass ein Rechtsgeschäft, das der gesetzlich vorgeschriebenen Form ermangelt, nichtig ist. Für einzelne Rechtsgeschäfte können allerdings besondere gesetzliche Regelungen bestehen."
+  },
+  {
+    "question": "Was ist für die gesetzliche Schriftform nach § 126 BGB grundsätzlich charakteristisch?",
+    "options": {
+      "A": "Eine telefonische Erklärung reicht immer aus.",
+      "B": "Die Urkunde muss grundsätzlich vom Aussteller eigenhändig durch Namensunterschrift oder mittels notariell beglaubigten Handzeichens unterzeichnet werden.",
+      "C": "Eine mündliche Erklärung vor Freunden ersetzt immer die Unterschrift.",
+      "D": "Schriftform und Textform sind rechtlich immer identisch."
+    },
+    "correct": "B",
+    "explanation": "Bei gesetzlich vorgeschriebener Schriftform verlangt § 126 BGB grundsätzlich eine Urkunde mit eigenhändiger Namensunterschrift oder notariell beglaubigtem Handzeichen. Für Verträge enthält § 126 weitere Anforderungen."
+  },
+  {
+    "question": "Was kennzeichnet die Textform nach § 126b BGB?",
+    "options": {
+      "A": "Sie erfordert immer eine eigenhändige Unterschrift mit Tinte.",
+      "B": "Sie ist nur durch einen Notar möglich.",
+      "C": "Eine lesbare Erklärung muss auf einem dauerhaften Datenträger abgegeben werden und die Person des Erklärenden nennen.",
+      "D": "Sie kann ausschließlich mündlich erfüllt werden."
+    },
+    "correct": "C",
+    "explanation": "Textform nach § 126b BGB verlangt eine lesbare Erklärung, in der die Person des Erklärenden genannt ist, auf einem dauerhaften Datenträger. Eine eigenhändige Unterschrift ist gerade nicht das allgemeine Kennzeichen der Textform."
+  },
+  {
+    "question": "Was wird bei einer öffentlichen Beglaubigung einer Unterschrift im Kern bestätigt?",
+    "options": {
+      "A": "Dass der gesamte Vertragsinhalt wirtschaftlich sinnvoll ist.",
+      "B": "Dass der Vertrag garantiert keinen Rechtsfehler enthält.",
+      "C": "Dass der Unterzeichner den Vertrag später erfüllen wird.",
+      "D": "Die Echtheit beziehungsweise Herkunft der Unterschrift oder des Handzeichens."
+    },
+    "correct": "D",
+    "explanation": "Bei der öffentlichen Beglaubigung steht grundsätzlich die Unterschrift beziehungsweise das Handzeichen im Mittelpunkt. Sie ist von der notariellen Beurkundung zu unterscheiden, bei der die Erklärung beziehungsweise das Rechtsgeschäft selbst Gegenstand eines notariellen Beurkundungsverfahrens ist."
+  },
+  {
+    "question": "Was unterscheidet die notarielle Beurkundung wesentlich von einer bloßen Beglaubigung der Unterschrift?",
+    "options": {
+      "A": "Bei der Beurkundung ist die Erklärung beziehungsweise das Rechtsgeschäft selbst Gegenstand des notariellen Verfahrens; der Notar hat dabei weitergehende Prüfungs- und Belehrungsaufgaben.",
+      "B": "Eine Beurkundung betrifft ausschließlich die Farbe der verwendeten Tinte.",
+      "C": "Bei einer Beurkundung wird nur bestätigt, dass eine Kopie angefertigt wurde.",
+      "D": "Zwischen beiden Verfahren besteht keinerlei Unterschied."
+    },
+    "correct": "A",
+    "explanation": "Bei der notariellen Beurkundung wird nicht lediglich eine Unterschrift beglaubigt. Der Notar beurkundet die Erklärungen und hat dabei insbesondere den Willen der Beteiligten zu erforschen, über die rechtliche Tragweite zu belehren und die Erklärungen eindeutig in der Niederschrift wiederzugeben."
+  },
+  {
+    "question": "Welcher Merksatz beschreibt den Unterschied zwischen Lastenheft und Pflichtenheft am besten?",
+    "options": {
+      "A": "Lastenheft und Pflichtenheft sind immer vollständig identisch.",
+      "B": "Lastenheft: Was und wofür wird gefordert? Pflichtenheft: Wie und womit werden die Anforderungen umgesetzt?",
+      "C": "Das Pflichtenheft enthält ausschließlich Rechnungen.",
+      "D": "Das Lastenheft wird ausschließlich nach Projektabschluss erstellt."
+    },
+    "correct": "B",
+    "explanation": "Das Lastenheft beschreibt aus Sicht des Auftraggebers die Gesamtheit der Anforderungen an die zu erbringende Leistung. Das Pflichtenheft konkretisiert aus Sicht des Auftragnehmers, wie diese Anforderungen umgesetzt werden sollen. Als Merksatz eignet sich daher: Lastenheft = Was und wofür? Pflichtenheft = Wie und womit?"
+  },
+  {
+    "question": "Wer formuliert typischerweise die Anforderungen im Lastenheft?",
+    "options": {
+      "A": "Der Auftraggeber.",
+      "B": "Ausschließlich das Finanzamt.",
+      "C": "Immer ein Gericht.",
+      "D": "Ausschließlich der spätere Endkunde ohne Beteiligung des Auftraggebers."
+    },
+    "correct": "A",
+    "explanation": "Das Lastenheft enthält typischerweise die Anforderungen des Auftraggebers an die zu erbringende Leistung. Es beschreibt insbesondere, was erreicht werden soll und welche Anforderungen bestehen."
+  },
+  {
+    "question": "Welche Angabe gehört typischerweise eher in ein Pflichtenheft?",
+    "options": {
+      "A": "Nur der Name des Auftraggebers ohne Projektbezug.",
+      "B": "Ausschließlich die allgemeine Aussage, dass eine Lösung gewünscht wird.",
+      "C": "Die konkrete technische Umsetzung der Anforderungen aus dem Lastenheft.",
+      "D": "Nur die Kontonummer des Auftragnehmers."
+    },
+    "correct": "C",
+    "explanation": "Das Pflichtenheft konkretisiert, wie der Auftragnehmer die Anforderungen umsetzen will. Bei einem Softwareprojekt können darin beispielsweise technische Lösungswege, Systemkomponenten oder konkrete Umsetzungsvorgaben beschrieben werden."
+  },
+  {
+    "question": "Welche Aussage über Lasten- und Pflichtenhefte ist richtig?",
+    "options": {
+      "A": "Sie werden automatisch durch ihre bloße Existenz immer Vertragsbestandteil.",
+      "B": "Sie dürfen in Verträgen niemals verwendet werden.",
+      "C": "Sie spielen bei der Beschreibung einer geschuldeten Leistung keine Rolle.",
+      "D": "Sie können zur Konkretisierung der geschuldeten Leistung in einen Vertrag einbezogen werden."
+    },
+    "correct": "D",
+    "explanation": "Lasten- und Pflichtenhefte können für die genaue Beschreibung des Leistungsumfangs sehr wichtig sein und als Vertragsbestandteil einbezogen werden. Ihre bloße Erstellung bedeutet jedoch nicht automatisch in jedem Fall, dass sie Vertragsbestandteil geworden sind."
+  }
+]
+
